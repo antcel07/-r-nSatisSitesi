@@ -1,0 +1,177 @@
+
+
+body { background-color:White;
+}
+
+#genel{ width:1000px;    margin:0px auto; border-style:solid; border-color:#CCCCCC; }
+#baslik { width:1000px; height:350px; background-image:url(images/templatemo_main_background.gif);}
+#baslikUst { width:970px; height:100px; background-image:url(images/templatemo_top_panel_background.jpg); margin:0px auto;}
+#baslikUstBaslik{width:250px; height:65px;  padding-top:28px; font-size:30px; text-align:left; color:White; margin-left:92px;}
+#baslikUstSag { float:right; width:170px; height:50px; background-color:#79a33e; color:white; border-style:solid; border-color:white; margin-top:-70px; margin-right:10px; }
+#baslikAlt{ width:970px; height:250px; margin:0px auto; background-image:url(images/templatemo_banner_background.jpg);}
+#baslikAltdiv { width:450px; height:230px; padding-top:50px;  margin-left:25px;    }
+#baslikİc1{ width:450px; height:40px;  font-size:30px; color:#95c66d; }
+#baslikİc2 { width:450px; height:70px;  color:White; } 
+#view {width:100px; height:25px; background-color:Yellow; margin-top:30px; }
+#view a { text-decoration:none;color:Black; }
+.menu { width:970px; height:60px; background-image:url(images/templatemo_menu_background.gif); margin:0px auto; }
+.menu ul { list-style-type:none; margin:0px; margin-left:60px;}
+.menu li { display:inline-block; margin-right:20px; margin-left:20px;  line-height:40px; }
+.menu li a { color:White; text-decoration:none; }
+.menu li a:hover {color:#ffa63e; }
+
+
+#orta { width:970px; height:650px;  margin:0px auto; background-image:url(images/templatemo_content_background.gif); background-repeat:repeat-y; }
+#ortaSol { width:250px; margin-left:20px; height:640px;  float:left; } 
+#ortaSol1  { width:250px; height:150px;  background-color:#0644b5;  } 
+#ortaSol1Ust1 { width:230px; height:40px; color:White; font-size:25px; padding-left:20px;  background-image:url(images/templatemo_blue_title_background.gif);   }   
+#ortaSol1Form { width:250px; height:110px; margin-top:30px; margin-left:20px; }
+#footer1 { width:250px; height:5px; background-image:url(images/templatemo_blue_panel_bottom.gif); }
+
+
+
+#ortaSol2 { margin-top:20px; width:250px; height:250px; background-color:#e10d0c;}
+#ortaSol2Ust { width:230px; height:40px; color:White; font-size:25px; padding-left:20px;  background-image:url(images/templatemo_red_title_background.gif);   }   
+#ortaSol2Orta{width:250px; height:190px; }
+#ortaSol2Orta li { list-style-type:none;}
+#ortaSol2Orta a{ text-decoration:none; color:White; }
+#ortaSol2Orta a:hover { color:Aqua;}
+#footer2 { width:250px; height:5px; background-image:url(images/templatemo_red_panel_bottom.gif); }
+
+#ortaSol3 { margin-top:20px; width:250px; height:170px;  background-color:#f0c505; }
+#ortaSol3Ust { width:230px; height:40px; color:White; font-size:25px; padding-left:20px;  background-image:url(images/templatemo_yellow_title_background.gif);   }
+#ortaSol3Orta{ width:230px; height:130px; margin-left:20px;  }
+#yazi1 { width:250px; height:40px; color:black; font-weight:bold; font-size:15px; margin-left:10px;}
+#yazi2 { width:250px; height:50px; margin-left:10px;   }
+#yazi3 { width:75px; text-align:center; height:30px; background-color:Yellow; margin-left:10px;    }
+#yazi3 a { text-decoration:none;}
+#footer3 { width:250px; height:5px; background-image:url(images/templatemo_yellow_panel_bottom.gif); }
+
+
+
+
+
+
+#ortaSag { float:left; margin-left:30px; margin-top:20px;  width:630px; }
+.yazi1 {font-size:30px; text-align:left; color:gray;}
+
+
+
+
+
+.kutu1 { width:290px; height:150px; border-style:solid; border-color:#CCC; float:left; margin-top:50px; margin-left:20px; }
+.resim1 { float:left; margin-right:30px; width:120px; height:120px; }
+.kutu1Baslik { color:#00C; float:right; margin-right:30px; width:70px; height:30px;}
+.kutu1Fiyat { color:red; float:right;  width:70px; height:30px;  clear:both;  margin-right:30px; margin-top:-80px; }
+
+.box1 { background-color:yellow; float:right; width:80px; height:30px; margin-top:-40px; margin-right:30px;}
+.box2 { background-color:yellow; float:right; width:80px; height:30px; margin-right:30px;}
+
+
+.enAlt{ width:750px; height:80px;  float:left; margin-top:20px; margin-left:200px; }
+
+
+.enAlt ul { list-style-type:none; margin:0px;}
+.enAlt li { display:inline-block; margin-left:10px; line-height:40px; }
+.enAlt li a { color:blue; text-decoration:none; }
+.enAlt li a:hover {color:red; }
+.enAltYazi{float:left; margin-left:90px;}
+
+
+
+
+.adminKutu { width:500px; height:50px; border-style:solid; border-color:#CCC; float:left; margin-top:10px; margin-left:20px; }
+.adminResim { float:left; margin-right:10px; width:30px; height:20px; }
+.adminUrunAdi {  float:right; margin-right:10px; width:30px; height:20px;}
+.adminKategoriAdiAdi {  float:right; margin-right:10px; width:30px; height:20px;}
+.adminKutuFiyat {  float:right;  width:30px; height:10px;  clear:both;  margin-right:10px; }
+
+
+
+.adminbox1 { background-color:yellow; float:right; width:80px; height:30px; margin-top:-40px; margin-right:30px;}
+.adminbox2 { background-color:yellow; float:right; width:80px; height:30px; margin-right:30px;}
+
+
+#genel2{ width:700px; height:800px;   margin:0px auto;  }
+#ust{width:650px; height:200px; }
+#adminMenu{ float:left; width:70px; height:200px; background-color: #CCCCFF }
+
+.auto-style7{width: 100%;}
+#adminSol
+{
+	 width:200px; height:250px; background-color:#0c7ac3; float:left; margin-top:20px;
+	
+}
+
+#adminSag
+{
+	 width:450px; height:500px; background-color:#0c7ac3; float:left; margin-left:50px; margin-top:20px; 
+	 
+}
+#adminSagBaslik{ font-size:30px; text-align:center;  margin-bottom:20px;  background-color:#CCCCFF;}
+#adminSagBaslik2{ font-size:30px; text-align:center;  margin-top:20px; margin-bottom:25px;  background-color:#CCCCFF;}
+#adminSagBaslik3{ font-size:30px; text-align:center;  margin-bottom:40px;  background-color:#CCCCFF;}
+#ekleDuzen{width:300px; height:190px;  float:left; margin-left:70px;}
+
+.adminUrun{float:left; margin-left:50px;}
+
+
+.gnclle{float:right; margin-right:50px; }
+.sil{float:right; margin-right:40px;}
+
+.button {
+
+  display: inline-block;
+
+  padding: 15px 25px;
+
+  font-size: 16px;
+
+  cursor: pointer;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  outline: none;
+
+  color: #fff;
+
+  background-color:#f4511e;
+
+  border: none;
+
+  border-radius: 15px;
+
+  box-shadow: 0 9px #999;
+  margin-bottom:10px;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+
+  background-color: #3e8e41;
+
+  box-shadow: 0 5px #666;
+
+  transform: translateY(4px);
+}
+
+
+
+
+
+.search-box h4{
+	color: #fff;
+}
+.search-box{
+	margin-top: 10%;
+}
+/* Formatting result items */
+.liveresult li{
+	cursor: pointer;
+}
+.liveresult li:hover{
+	background: #f2f2f2;
+}
